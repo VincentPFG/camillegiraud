@@ -16,6 +16,7 @@
     "@nuxtjs/localtunnel": "^1.1.3",
     "coffee-loader": "^0.9.0",
     "coffeescript": "^2.4.1",
+    "core-js": "^3.5.0",
     "nuxt": "^2.0.0",
     "nuxt-coffeescript-module": "^2.1.0",
     "pug": "^2.0.4",
